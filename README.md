@@ -1,10 +1,11 @@
-<h1 align="center">Hi , I'm Sakshi 👩🏻‍💻</h1>
-<h3 align="center">A passionate learner and Artificial Intelligence Enthusiast </h3>
+<h1 align="center">Hi , I'm Sakshi</h1>
+<h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshhhhhhi&label=Profile%20views&color=0e75b6&style=flat" alt="sakshhhhhhi" /> </p>
-- 🌱 I’m currently learning  <b>Deep Learning and Computer Vision</b>
 
-- 📫 How to reach me **sakshisubir@gmail.com**
+- 🌱 I’m currently learning **Deep Learning and Computer Vision**
+
+- 📫 Reach me **sakshisubir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
